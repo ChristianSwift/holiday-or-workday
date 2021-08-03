@@ -1,0 +1,18 @@
+{
+    "name": "christianswift/holiday-or-workday",
+    "description": "一个基于免费接口获取数据，并处理数据，从而方便判断天朝工作日的工具，修改自liujia/holiday-or-workday",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ChristianSwift",
+            "email": "topman@dingnaiwen.xyz"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "HolidayOrWorkday\\" : "src/"
+        }
+    }
+}
